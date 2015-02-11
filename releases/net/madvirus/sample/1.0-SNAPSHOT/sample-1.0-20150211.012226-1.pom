@@ -5,11 +5,13 @@
   <groupId>net.madvirus</groupId>
   <artifactId>sample</artifactId>
   <version>1.0-SNAPSHOT</version>
-  
-  <repository>
-    <id>madvirus.net</id>
-    <name>sample</name>
-    <url>https://github.com/krinjayp/mavenrepo</url>
-  </repository>
+ 
+    <repositories>
+        <repository>
+            <id>madvirus.net</id>
+            <name>sample</name>
+            <url>https://github.com/krinjayp/mavenrepo</url>
+        </repository>
+    </repositories>
   
 </project>
